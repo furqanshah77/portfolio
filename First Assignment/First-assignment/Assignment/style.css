@@ -1,0 +1,31 @@
+*{
+    background-color: gray ;
+}
+
+
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    cursor:pointer;
+    text-shadow: .5px .1px white;
+    font-family:'Courier New';
+    font-weight:bolder ;
+    
+
+}
+.next{
+    text-align: end;
+   
+    
+    
+    
+}
+ 
+a:hover{
+    color:azure;
+    text-shadow: 2px 2px black;
+    font-family: cursive;
+}

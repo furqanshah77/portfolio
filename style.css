@@ -1,0 +1,86 @@
+*{
+    background-color: cyan;
+}
+
+.info h1{
+    text-align: center;
+}
+.info h2{
+    text-align: center;
+}
+.info{
+    border-bottom: 2px solid gray;
+}
+
+
+.main{
+
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    display: flex;
+    margin-top: 50px;
+    
+
+}
+
+.about-me{
+    background-color:#DDD0C8 ;
+    color: #323232;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 2px 1px gray;
+    margin: 10px;
+
+}
+
+a{
+    text-decoration: none;
+    text-align: center;
+    font-weight: bolder;
+    
+}
+
+
+.first-card {
+    background-color:#DDD0C8 ;
+    color: #323232;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 2px 1px gray;
+    margin: 10px;
+
+    
+}
+.sec-card{
+    background-color:#DDD0C8 ;
+    color: #323232;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 2px 1px gray;
+    margin: 10px;
+
+}
+
+.three-card{
+    background-color:#DDD0C8 ;
+    color: #323232;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 2px 1px gray;
+    margin: 10px;
+}
+
+
+.forth-card{
+    background-color:#DDD0C8 ;
+    color: #323232;
+    width: 200px;
+    height: 300px;
+    border: 1px solid black;
+    box-shadow: 4px 4px 2px 1px gray;
+    margin: 10px;
+}
